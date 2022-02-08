@@ -25,3 +25,10 @@ Companies use their reversed Internet domain name to begin their package namesâ€
 
 Name collisions that occur within a single company need to be handled by convention within that company, perhaps by including the region or the project name after the company name (for example, com.example.region.mypackage).
 
+### compatibility
+
+The Uniform Player Identifier could be stored in the annotation, the following chart would show the place:
+
+|  Format   | location  |
+|  ----  | ----  |
+| JPEG  | in the 0x FFFE comment |
