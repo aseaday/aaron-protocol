@@ -15,7 +15,11 @@ For example, The JPEG format photo display software is default `preview` in the 
 
 The UPI(Uniform Player Identifier) is as follows:
 
-### Player Name
+{Player Locator}://{Format Name}/{Perseved Fields}?{Parameter}
+
+eth.dao.web3player://jpeg?chainid=137&rpcurl=https://polygon-rpc.com/
+
+### Player Locator
 
 Companies use their reversed Internet domain name to begin their package names—for example, com.example.myplayer for a player named myplayer created by a programmer at example.com.
 
