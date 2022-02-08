@@ -15,9 +15,9 @@ For example, The JPEG format photo display software is default `preview` in the 
 
 The UPI(Uniform Player Identifier) is as follows:
 
-{Player Locator}://{Format Name}/{Perseved Fields}?{Parameter}
+> {Player Locator}://{Format Name}/{Perseved Fields}?{Parameter}
 
-eth.dao.web3player://jpeg?chainid=137&rpcurl=https://polygon-rpc.com/
+> eth.dao.web3player://jpeg?chainid=137&rpcurl=https://polygon-rpc.com/
 
 ### Player Locator
 
