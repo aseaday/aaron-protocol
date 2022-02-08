@@ -31,4 +31,6 @@ The Uniform Player Identifier could be stored in the annotation, the following c
 
 |  Format   | location  |
 |  ----  | ----  |
-| JPEG  | in the 0x FFFE comment |
+| JPEG  | in the 0xFFFE comment |
+| PNG  |  |
+| MP3  | |
